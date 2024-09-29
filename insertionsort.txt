@@ -1,0 +1,13 @@
+private static void insertionsort(int [] array){
+for(int i = 1; i < array.lenth; i ++){
+int temp = array[i];
+int beforeTemp = i -1;
+
+while(beforeTemp > 0 && array[beforeTemp] > temp){
+array [beforeTemp + 1] = array[ beforeTemp];
+beforeTemp - - ;
+
+}
+array[beforeTemp +1 ] = temp;
+}
+}
