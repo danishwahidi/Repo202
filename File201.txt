@@ -9,6 +9,6 @@ Line 8, In the bash window, type "git add TestFile.txt". This will add the .txt 
 Line 9, Check TestRepo on github, there is no file added. 
 Line 10, On the bash window, typ "git commit -am "Added new file" this will save the changes we made, meaning the file that was created in the TestRepo will be saved.
 Line 11, This file is still not in TestRepo on github, we need to push it up to the repository from our local Machine. In git bash window type " git push". It will push it up to the repository in github.
-Line 12, Go to github check TestRep, it should have the TestFile.txt we just pushed up.
+Line 12, Go to github check TestRepo, it should have the TestFile.txt we just pushed up.
 Line 13
 Line 14
