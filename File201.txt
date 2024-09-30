@@ -7,7 +7,7 @@ Line 6, In this new git bash window, type "git status". It will show if there wa
 Line 7, Create a .txt file in TestRepo name it "TestFile.txt"
 Line 8, In the bash window, type "git add TestFile.txt". This will add the .txt file in git to track any changes that might happen.
 Line 9, Check TestRepo on github, there is no file added. 
-Line 10
+Line 10, On the bash window, typ "git commit -am "Added new file" this will save the changes we made, meaning the file that was created in the TestRepo will be saved.
 Line 11
 Line 12
 Line 13
