@@ -4,7 +4,7 @@ Line 3, Create a repository on github. Name it "TestRepo"
 Line 4, Create a folder on your computer name it "TestRepo"
 Line 5, Right click on TestRepo folder and slect gitbash here option
 Line 6, In this new git bash window, type "git status". It will show if there was any update or changes made.
-Line 7
+Line 7, Create a .txt file in TestRepo name it "TestFile.txt"
 Line 8
 Line 9
 Line 10
